@@ -3,6 +3,8 @@
 This is a Google news client bot. It fetches the headlines from Google News using pygooglenews library,
 parses the news into embeds and sends to a discord channel. 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Installation instruction
 
 To run the bot locally, I recommend installing a python virtual environment:
